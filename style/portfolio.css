@@ -32,7 +32,7 @@ nav {
     /* ak line e niye asbe. */
     justify-content: space-between;
     /* duitake dui prante niya jay*/
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
